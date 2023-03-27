@@ -1,0 +1,8 @@
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\obj\Debug\zaverecnaPrace.csproj.AssemblyReference.cache
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\obj\Debug\zaverecnaPrace.csproj.SuggestedBindingRedirects.cache
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\obj\Debug\zaverecnaPrace.csproj.CoreCompileInputs.cache
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\bin\Debug\zaverecnaPrace.exe.config
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\bin\Debug\zaverecnaPrace.exe
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\bin\Debug\zaverecnaPrace.pdb
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\obj\Debug\zaverecnaPrace.exe
+C:\Users\koubi\Desktop\ZaverečnáPráce\zaverecnaPrace\zaverecnaPrace\obj\Debug\zaverecnaPrace.pdb
